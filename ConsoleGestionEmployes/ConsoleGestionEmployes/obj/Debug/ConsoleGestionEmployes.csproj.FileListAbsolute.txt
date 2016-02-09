@@ -1,0 +1,14 @@
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\bin\Debug\ConsoleGestionEmployes.exe.config
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\bin\Debug\ConsoleGestionEmployes.exe
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\bin\Debug\ConsoleGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\bin\Debug\DaoGestionEmployes.dll
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\bin\Debug\DaoGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\obj\Debug\ConsoleGestionEmployes.csprojResolveAssemblyReference.cache
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\obj\Debug\ConsoleGestionEmployes.exe
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\ConsoleGestionEmployes\obj\Debug\ConsoleGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\bin\Debug\ConsoleGestionEmployes.exe.config
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\bin\Debug\ConsoleGestionEmployes.exe
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\bin\Debug\ConsoleGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\obj\Debug\ConsoleGestionEmployes.csprojResolveAssemblyReference.cache
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\obj\Debug\ConsoleGestionEmployes.exe
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\obj\Debug\ConsoleGestionEmployes.pdb

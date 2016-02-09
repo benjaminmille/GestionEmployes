@@ -1,0 +1,16 @@
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.dll.config
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.dll
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.dll
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.dll.config
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.dll
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.dll
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.pdb
+C:\Users\bmille\Documents\Visual Studio 2012\Projects\ConsoleGestionEmployes\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.csprojResolveAssemblyReference.cache
+D:\IMIE\C#\Exercices\ProjetWindowsForms\Version finale\ConsoleGestionEmployes\ConsoleGestionEmployes\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.dll.config
+D:\IMIE\C#\Exercices\ProjetWindowsForms\Version finale\ConsoleGestionEmployes\ConsoleGestionEmployes\DaoGestionEmployes\bin\Debug\DaoGestionEmployes.pdb
+D:\IMIE\C#\Exercices\ProjetWindowsForms\Version finale\ConsoleGestionEmployes\ConsoleGestionEmployes\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.csprojResolveAssemblyReference.cache
+D:\IMIE\C#\Exercices\ProjetWindowsForms\Version finale\ConsoleGestionEmployes\ConsoleGestionEmployes\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.dll
+D:\IMIE\C#\Exercices\ProjetWindowsForms\Version finale\ConsoleGestionEmployes\ConsoleGestionEmployes\DaoGestionEmployes\obj\Debug\DaoGestionEmployes.pdb
